@@ -1,0 +1,13 @@
+D:\Pairs\KPJP_Practica\Work_1.9\Task\bin\Debug\Task.exe.config
+D:\Pairs\KPJP_Practica\Work_1.9\Task\bin\Debug\Task.exe
+D:\Pairs\KPJP_Practica\Work_1.9\Task\bin\Debug\Task.pdb
+D:\Pairs\KPJP_Practica\Work_1.9\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+D:\Pairs\KPJP_Practica\Work_1.9\Task\obj\Debug\Task.AddEquil.resources
+D:\Pairs\KPJP_Practica\Work_1.9\Task\obj\Debug\Task.Form1.resources
+D:\Pairs\KPJP_Practica\Work_1.9\Task\obj\Debug\Task.Properties.Resources.resources
+D:\Pairs\KPJP_Practica\Work_1.9\Task\obj\Debug\Task.csproj.GenerateResource.cache
+D:\Pairs\KPJP_Practica\Work_1.9\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+D:\Pairs\KPJP_Practica\Work_1.9\Task\obj\Debug\Task.exe
+D:\Pairs\KPJP_Practica\Work_1.9\Task\obj\Debug\Task.pdb
+D:\Pairs\KPJP_Practica\Work_1.9\Task\obj\Debug\Task.AddRight.resources
+D:\Pairs\KPJP_Practica\Work_1.9\Task\obj\Debug\Task.AddIsos.resources
